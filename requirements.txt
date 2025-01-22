@@ -1,1 +1,6 @@
+# For any mathematical operations, if required in the future.
+numpy
+
+# If you plan to use it for running unit tests.
+pytest
 
